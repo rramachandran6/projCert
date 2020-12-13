@@ -1,4 +1,4 @@
-FROM /home/ubuntu/jenkins/workspace/Proj
+FROM /rramachandran6/projCert
 
 ADD website /var/www/html
 
