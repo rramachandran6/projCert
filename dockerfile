@@ -1,4 +1,4 @@
-FROM /rramachandran6/projCert
+FROM /rramachandran6/projcert
 
 ADD website /var/www/html
 
