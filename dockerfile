@@ -1,3 +1,5 @@
+WORKDIR /home/ubuntu/jenkins/workspace/Proj
+
 FROM devopsrepo/projcert
 
 ADD website /var/www/html
