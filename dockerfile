@@ -1,4 +1,4 @@
-FROM /home/ubuntu/jenkins/workspace/proj
+FROM /home/ubuntu/jenkins/workspace/project
 
 ADD website /var/www/html
 
